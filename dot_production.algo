@@ -1,0 +1,11 @@
+VAR
+    v1: ARRAY_OF_INTERS[4];
+    i: INTEGER;
+    v2: ARRAY_OF_INTERS[4];
+    i: INTEGER;
+BEGIN
+    se11 := [1, 3, 5, 7, ]
+    set2 := [-1, 1, 6, 2, 7]
+    prod:= set1 * set2;
+    Print(prod);
+END

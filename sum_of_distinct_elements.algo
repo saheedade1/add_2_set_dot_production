@@ -1,0 +1,11 @@
+VAR
+    set1: ARRAY_OF_INTERS[5];
+    i: INTEGER;
+    set2: ARRAY_OF_INTERS[6];
+    i: INTEGER;
+BEGIN
+    se11 := [1, 3, 5, 7, 6]
+    set2 := [4, 5, 6, 7, 8]
+    result:= sum_of_distinct_elements(set1, set2);
+    Print(result);
+END
